@@ -1,0 +1,5 @@
+https://www.bigdata-transportation.kr/pageant/dashboard/CMPE_000000000020004
+
+https://datacontest.kr/www/74?menu=187115
+
+https://www.kaggle.com/competitions/ventilator-pressure-prediction/data?select=test.csv
